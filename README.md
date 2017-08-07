@@ -10,4 +10,4 @@ Here are some screenshots of my work. Please feel free to give your recommendati
 
 ![alt text](https://github.com/abelberhane/Digital-Resume/blob/master/images/SH1.png?raw=true)
 ![alt text](https://github.com/abelberhane/Digital-Resume/blob/master/images/SH4.png?raw=true)
-![alt text](https://github.com/abelberhane/Digital-Resume/blob/master/images/SH2.png?raw=true)
+![alt text](https://github.com/abelberhane/Digital-Resume/blob/master/images/SHEnd.png?raw=true)

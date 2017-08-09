@@ -8,6 +8,6 @@ working with JavaScript shortly.
 
 Here are some screenshots of my work. Please feel free to give your recommendations, comments, or tips. Cheers.
 
-![alt text](https://github.com/abelberhane/Digital-Resume/blob/master/images/SH1.png?raw=true)
-![alt text](https://github.com/abelberhane/Digital-Resume/blob/master/images/SH4.png?raw=true)
-![alt text](https://github.com/abelberhane/Digital-Resume/blob/master/images/SHEnd.png?raw=true)
+![alt text](https://github.com/abelberhane/Digital-Resume/blob/master/images/5.png?raw=true)
+![alt text](https://github.com/abelberhane/Digital-Resume/blob/master/images/6.png?raw=true)
+![alt text](https://github.com/abelberhane/Digital-Resume/blob/master/images/7.png?raw=true)
